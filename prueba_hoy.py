@@ -12,5 +12,7 @@ for num in numeros:
     acumulador += num
 print(f"El total acumulado es : {acumulador}")
 
+print("Probando el flujo de ramas")
+print("Probando el flujo de ramas")
 
-    
+
