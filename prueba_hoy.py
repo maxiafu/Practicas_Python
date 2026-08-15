@@ -13,6 +13,5 @@ for num in numeros:
 print(f"El total acumulado es : {acumulador}")
 
 print("Probando el flujo de ramas")
-print("Probando el flujo de ramas")
 
 
