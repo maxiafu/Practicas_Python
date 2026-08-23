@@ -6,7 +6,7 @@ patron_clave = r"^\w{6,10}$"
 clave = "prueba"
 
 if re.match(patron_clave, clave):
-    print("Formato de clave Invalida")
+    print("Formato de clave Valido")
 else:
-    print("Formato Valido......")
+    print("Formato de clace Invalido......")
 
